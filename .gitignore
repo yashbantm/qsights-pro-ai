@@ -1,0 +1,4 @@
+# See backend/.gitignore and frontend/.gitignore
+.DS_Store
+*.log
+.env
